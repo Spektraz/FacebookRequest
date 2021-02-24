@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9a7730083b1224d8f7f04e8cd34ffc, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  Prototypes: {fileID: 7719557055091735004, guid: e79fe2e3bb1b66b40a1abfe6d2f202f4,
+    type: 3}
+  Modules:
+  - Name: Sphere
+    Prototype: {fileID: 102893825099494933, guid: fdead9ce7fe406643b83e31e794980c2,
+      type: 3}
+    Prefab: {fileID: 3535154655418855149, guid: fdead9ce7fe406643b83e31e794980c2,
+      type: 3}
+    Rotation: 45
+    PossibleNeighbors:
+    - data: 0100000000000000
+    Index: 0
+    PLogP: 1

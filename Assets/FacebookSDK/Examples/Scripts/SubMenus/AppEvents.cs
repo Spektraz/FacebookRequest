@@ -18,10 +18,12 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-namespace Facebook.Unity.Example
-{
-    using System.Collections.Generic;
+using System.Collections.Generic;
+using Facebook.Unity;
+using Facebook.Unity.Example;
 
+namespace FacebookSDK.Examples.Scripts.SubMenus
+{
     internal class AppEvents : MenuBase
     {
         protected override void GetGui()

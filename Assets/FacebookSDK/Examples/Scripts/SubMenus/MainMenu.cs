@@ -18,6 +18,8 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
+using FacebookSDK.Examples.Scripts.SubMenus;
+
 namespace Facebook.Unity.Example
 {
     using System.Collections.Generic;
